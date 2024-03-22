@@ -10,7 +10,7 @@
     "url": "https://github.com/Mrr-Wang/python-test-t"
   },
   "bugs": {
-    "url": "https://github.com/Mrr-Wang/python-test-t/issues"
+    "url": "https://github.com/Mrr-Wang/python-test-t"
   },
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
