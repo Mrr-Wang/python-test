@@ -3,14 +3,14 @@
   "version": "9.0.0",
   "description": "Customizable Date Picker for React",
   "author": "Giampaolo Bellavite <io@gpbl.dev>",
-  "homepage": "https://github.com/0x0xGen/react-day-picker-trial",
+  "homepage": "https://github.com/Mrr-Wang/python-test-t",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/0x0xGen/react-day-picker-trial"
+    "url": "https://github.com/Mrr-Wang/python-test-t"
   },
   "bugs": {
-    "url": "https://github.com/0x0xGen/react-day-picker-trial/issues"
+    "url": "https://github.com/Mrr-Wang/python-test-t/issues"
   },
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
